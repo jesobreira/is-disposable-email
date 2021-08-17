@@ -18,7 +18,7 @@ disposable('fake@mailinator.com'); // true
 $ npm install is-disposable-email
 ```
 ```
-$ component install ivolo/is-disposable-email
+$ component install jesobreira/is-disposable-email
 ```
 
 ## Licence

@@ -1,5 +1,5 @@
 
-var disposable = require('disposable-email-domains');
+var disposable = require('./list');
 
 /**
  * Expose `isDisposableEmail`.

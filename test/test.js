@@ -1,9 +1,4 @@
-
-try {
-  var disposable = require('is-disposable-email');
-} catch (e) {
-  var disposable = require('..');
-}
+var disposable = require('..');
 
 var assert = require('assert');
 

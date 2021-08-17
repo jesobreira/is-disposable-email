@@ -1,6 +1,6 @@
 {
   "name": "is-disposable-email",
-  "repo": "segmentio/is-disposable-email",
+  "repo": "jesobreira/is-disposable-email",
   "description": "Determine if an email is disposable.",
   "version": "0.0.1",
   "keywords": [
@@ -12,8 +12,5 @@
   "license": "MIT",
   "scripts": [
     "index.js"
-  ],
-  "dependencies": {
-    "ivolo/disposable-email-domains": "*"
-  }
+  ]
 }
