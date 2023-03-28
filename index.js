@@ -1,5 +1,5 @@
 
-var disposable = require('./list');
+var disposable = require('./list.json');
 
 /**
  * Expose `isDisposableEmail`.
